@@ -7,8 +7,7 @@ basicamente o cliente irá entrar e interagir com o seu problema e navegando.
 
 Coloquei alguns botões com alguns canais de minha escolha, então divirta-se.
 
-Fique a vontade para fazer o que quiser com esse script, estou escrevendo isso, para os curiosos que vier aqui,
-e, saber se eu sei programar ou não, já que você precisa documentar os script que você escreve.
+Fique a vontade para fazer o que quiser com esse script.
 
 E os testes?
 
@@ -17,9 +16,23 @@ Maaaas como estou apenas praticando(já tem mais de 3 fucking anos, já desenvol
 
 Eu só peço encarecidamente que dê os créditos(pode ficar tranquilo, não vou te processar e nem ficar com ciúmes do bot).
 
-Tamo junto e mantenha, constância, determinação e paciência.
+Tamo junto, e, mantenha constância, determinação e paciência.
 
 Obs: Esse bot está rodando no discloud, se quiser deixar o seu bot rodando de forma gratuita(Esse 'jabá', não está sendo patrocinado).
 
+Obs: Eu uso para desenvolver os meus bots, usando PyTelegramBotAPI.
 
+https://pytba.readthedocs.io/en/latest/index.html
+
+Minha folha do google colab com todos os metódos que eu traduzir para facilitar o entendimento.
+
+https://colab.research.google.com/drive/1fp3Zou5NXOns9q_XDhCkgX6HGy5dLzDx?usp=sharing
+
+Algumas pessoas programam bots Telegram, usando aiogram, pyrogram e por aí vai. 
+
+No final das contas o conceito é o mesmo, mas eu tenho preferência por essa documentação.
+
+Se tiver com dúvidas estou no Telegram como @ordnavile
+
+Abraços....
 
