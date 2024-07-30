@@ -19,5 +19,7 @@ Eu só peço encarecidamente que dê os créditos(pode ficar tranquilo, não vou
 
 Tamo junto e mantenha, constância, determinação e paciência.
 
+Obs: Esse bot está rodando no discloud, se quiser deixar o seu bot rodando de forma gratuita(Esse 'jabá', não está sendo patrocinado).
+
 
 
