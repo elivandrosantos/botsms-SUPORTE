@@ -30,7 +30,7 @@ Minha folha do google colab com todos os metódos que eu traduzir para facilitar
 
 https://colab.research.google.com/drive/1fp3Zou5NXOns9q_XDhCkgX6HGy5dLzDx?usp=sharing
 
-Algumas pessoas programam bots Telegram, usando aiogram, pyrogram e por aí vai. 
+Alguns programdores, programam bots Telegram, usando aiogram, pyrogram e por aí vai. 
 
 No final das contas o conceito é o mesmo, mas eu tenho preferência por essa documentação.
 
