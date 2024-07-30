@@ -5,7 +5,7 @@ from datetime import datetime
 import csv
 
 
-TOKEN = '6098339666:AAHA0IMgsZlN87Ts6kXhvn1S4NuK_QKy2SQ'
+TOKEN = ''
 
 bot = AsyncTeleBot(TOKEN, parse_mode='HTML')
 
