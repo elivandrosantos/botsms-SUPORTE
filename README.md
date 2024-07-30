@@ -1,3 +1,5 @@
+PT-BR
+
 Fala aí seu fela ou sua fela, tranquilo?
 
 Já que você chegou aqui, então você está procurando um bot.
@@ -36,3 +38,42 @@ Se tiver com dúvidas estou no Telegram como @ordnavile
 
 Abraços....
 
+EN
+
+Hey there, my friend, how are you?
+
+Since you're here, you're looking for a bot.
+
+I developed this bot for frequently asked questions and cataloged it, so basically the customer will enter and interact with their problem and navigate.
+
+I added some buttons with some channels of my choice, so have fun.
+
+Feel free to do whatever you want with this script.
+
+And the tests?
+
+Man, with all the language I've studied, they always ask for tests (this is actually good practice, I hate it but you have to do it).
+
+But since I'm just practicing (it's been over 3 fucking years, I've already developed an app and I still don't work with it, they tricked me).
+
+I just ask that you give credit (don't worry, I won't sue you or get jealous of the bot).
+
+We're together, and stay consistent, determined and patient.
+
+Note: This bot is running on discloud, if you want to leave your bot running for free (this 'advertisement' is not being sponsored).
+
+Note: I use it to develop my bots, using PyTelegramBotAPI.
+
+https://pytba.readthedocs.io/en/latest/index.html
+
+My google sheet collab with all the methods I translate to make it easier to understand.
+
+https://colab.research.google.com/drive/1fp3Zou5NXOns9q_XDhCkgX6HGy5dLzDx?usp=sharing
+
+Some people program Telegram bots using aiogram, pyrogram and so on.
+
+In the end, the concept is the same, but I prefer this documentation.
+
+If you have any questions, I'm on Telegram as @ordnavile
+
+Cheers...
